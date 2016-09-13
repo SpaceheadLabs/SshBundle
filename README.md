@@ -48,7 +48,7 @@ Documentation
 
 Documentation is stored in the `Resources/doc/index.md` file in this bundle:
 
-[Read the documentation](https://github.com/Spacehead/SshBundle/blob/master/Resources/doc/index.md)
+[Read the documentation](https://github.com/SpaceheadLabs/SshBundle/blob/master/Resources/doc/index.md)
 
 License
 ============
