@@ -1,0 +1,31 @@
+{
+    "name": "spacehead/ssh-bundle",
+    "type": "symfony-bundle",
+    "description": "Ssh bundle for Symfony 3.",
+    "keywords": ["ssh", "bundle", "symfony3", "spacehead"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Spacehead",
+            "homepage": "https://github.com/Spacehead"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "symfony/framework-bundle": "^3.0",
+        "herzult/php-ssh": "^1.1",
+        "phpunit/phpunit": "^4.8"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Spacehead\\SshBundle\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.1.x-dev"
+        }
+    }
+}
