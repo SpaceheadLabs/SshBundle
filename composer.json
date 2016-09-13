@@ -1,13 +1,13 @@
 {
-    "name": "spacehead/ssh-bundle",
+    "name": "spaceheadlabs/ssh-bundle",
     "type": "symfony-bundle",
     "description": "Ssh bundle for Symfony 3.",
     "keywords": ["ssh", "bundle", "symfony3", "spacehead"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Spacehead",
-            "homepage": "https://github.com/Spacehead"
+            "name": "SpaceheadLabs",
+            "homepage": "https://github.com/SpaceheadLabs"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Spacehead\\SshBundle\\": ""
+            "SpaceheadLabs\\SshBundle\\": ""
         }
     },
     "extra": {
